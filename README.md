@@ -1,6 +1,6 @@
 ### Structure
 A hashmap mapping a card name to the card's attributes.
-### List of fields:
+### List of fields
 ```
 id           -> 112011030
 expansion    -> Steel Rebellion
