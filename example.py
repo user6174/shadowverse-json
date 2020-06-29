@@ -12,4 +12,5 @@ for subdir, _, files in os.walk(os.getcwd()):
 # usage example
 card = cardpool["Robogoblin"]
 for key in card:
-    print(f'{key:<12} -> {card[key]}')
+    type_ = str(type(card[key]))[8:-2]
+    print(f'{key:<13} -> ({type_}) {card[key]}')
