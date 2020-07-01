@@ -13,6 +13,7 @@ trait_        -> (str) Machina
 type_         -> (str) Follower
 expansion_    -> (str) Steel Rebellion
 baseEffect_   -> (str) Last Words: Put a Repair Mode into your hand.
+tokens_       -> (list) ['Repair Mode']
 baseAtk_      -> (int) 2
 baseDef_      -> (int) 2
 evoEffect_    -> (str) (Same as the unevolved form.)
