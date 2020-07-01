@@ -1,5 +1,7 @@
 ### Structure
 A hashmap mapping a card name to the card's attributes.
+`all.json` contains the entire card database.
+
 ### List of fields
 ```
 name_         -> (str) Robogoblin
