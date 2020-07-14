@@ -4,28 +4,26 @@ A hashmap mapping a card name to the card's attributes.
 
 ### List of fields
 ```
-name_         -> (str) Robogoblin
-id_           -> (int) 112011030
+name_         -> (str) Desert Pathfinder
+id_           -> (int) 114031010
 pp_           -> (int) 2
 craft_        -> (str) Neutral
-rarity_       -> (str) Bronze
-trait_        -> (str) Machina
+rarity_       -> (str) Gold
+trait_        -> (str) Natura
 type_         -> (str) Follower
-expansion_    -> (str) Steel Rebellion
-baseEffect_   -> (str) Last Words: Put a Repair Mode into your hand.
-tokens_       -> (list) ['Repair Mode']
+expansion_    -> (str) Verdant Conflict
+baseEffect_   -> (str) Last Words: If there are no allied Naterran Great Trees in play, summon a Naterran Great Tree.
+tokens_       -> (list) ['Naterran Great Tree']
 baseAtk_      -> (int) 2
 baseDef_      -> (int) 2
-evoEffect_    -> (str) (Same as the unevolved form.)
+evoEffect_    -> (str) Evolve: Put a Naterran Great Tree into your hand.
+Last Words: If there are no allied Naterran Great Trees in play, summon a Naterran Great Tree.
 evoAtk_       -> (int) 4
 evoDef_       -> (int) 4
-baseFlair_    -> (str) Verifying access request... Access granted.
-Initializing Project: Core.
-Starting up... Startup failed.
-Insufficient energy remaining.
-evoFlair_     -> (str) Verifying access request... Access granted.
-Confirming changes to core.
-Confirming optimized support request.
-ERROR. Switching priority to energy conservation.
-rotation_     -> (bool) False
+baseFlair_    -> (str) Come, friend. You will cross the dunes safely on the wings of an angel.
+What's that? My steed looks like no angel you've ever seen? But look there on his back! What else but wings would those two proud humps be?
+evoFlair_     -> (str) Fear not, friend, though you are beset by foes.
+My steed is a demon who devours the desert itself. Behold his powerful jaws. Are these not the gnashing teeth of the maw of hell itself? Deterrent enough for any craven marauder.
+rotation_     -> (bool) True
+alts_         -> (list) [712031010]
 ```
