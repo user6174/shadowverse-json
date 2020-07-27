@@ -28,7 +28,7 @@ evoFlair_     -> (str) Fear not, friend, though you are beset by foes.
 My steed is a demon who devours the desert itself. Behold his powerful jaws. Are these not the gnashing teeth of the maw of hell itself? Deterrent enough for any craven marauder.
 ```
 
-####Notes
+#### Notes
 - Token and Promo cards have their `expansion_` field set to `Token`.
 - The `related_` field of a card contains all the other prints and tokens relative to that card, mirroring the layout shown on the [official site](https://shadowverse-portal.com/card/101314020?lang=en):
 ```
