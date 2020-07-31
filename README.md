@@ -16,7 +16,7 @@ expansion_    -> (str) Verdant Conflict
 baseEffect_   -> (str) Last Words: If there are no allied Naterran Great Trees in play, summon a Naterran Great Tree.
 baseFlair_    -> (str) Come, friend. You will cross the dunes safely on the wings of an angel.
 What's that? My steed looks like no angel you've ever seen? But look there on his back! What else but wings would those two proud humps be?
-rotation_     -> (bool) False
+rotation_     -> (bool) True
 baseAtk_      -> (int) 2
 baseDef_      -> (int) 2
 evoAtk_       -> (int) 4
